@@ -7,9 +7,9 @@ To train the network run the script run_video_gan.sh.
 
 To test results run create_dataset.sh.
 
-[[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | height = 100px ]]
 
-![Farmers Market Finder Demo3](demos/ucf.gif) ![Farmers Market Finder Demo 4](demos/ucf_2.gif)
+
+![Farmers Market Finder Demo3](demos/ucf.gif | width=100) ![Farmers Market Finder Demo 4](demos/ucf_2.gif)
 
 ![Farmers Market Finder Demo 2](demos/jester_video.gif)
 
