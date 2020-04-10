@@ -7,4 +7,4 @@ To train the network run the script run_video_gan.sh.
 
 To test results run create_dataset.sh.
 
-![Farmers Market Finder Demo](weiz_video.gif)
+![Farmers Market Finder Demo](demos/weiz_video.gif) ![Farmers Market Finder Demo 2](demos/jester_video.gif)
