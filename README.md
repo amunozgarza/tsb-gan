@@ -9,4 +9,6 @@ To test results run create_dataset.sh.
 
 ![Farmers Market Finder Demo3](demos/ucf.gif) ![Farmers Market Finder Demo 4](demos/ucf_2.gif)
 
-![Farmers Market Finder Demo](demos/weiz_video.gif) ![Farmers Market Finder Demo 2](demos/jester_video.gif)
+![Farmers Market Finder Demo 2| height = 100px](demos/jester_video.gif)
+
+![Farmers Market Finder Demo](demos/weiz_video.gif)
