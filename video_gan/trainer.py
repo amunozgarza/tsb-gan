@@ -52,6 +52,7 @@ class Trainer(object):
         if config.dataset == "weizmann":
             data_loader = torch.utils.data.DataLoader(TSNDataSet("", self.config, self.config.data_path, num_segments=self.T,
                            transform=torchvision.transforms.Compose([
+                               torchvision.transforms.Resize((240, 192)),
                                torchvision.transforms.CenterCrop(cropping_size),
                                torchvision.transforms.ToTensor(),
                                torchvision.transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))                       
