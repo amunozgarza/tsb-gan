@@ -18,7 +18,7 @@ The script run create_dataset.sh will automatically create N videos of each clas
 
 ## Architecture
 
-![](demos/arch.png)
+![](demos/arch.png = 250x250)
 
 
 ## Samples
