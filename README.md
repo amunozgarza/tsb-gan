@@ -14,8 +14,6 @@ To test results run create_dataset.sh.
 ### UCF-101
 ![](demos/ucf.gif) 
 
-![](demos/ucf_2.gif)
-
 ### 20BN-Jester
 ![](demos/jester_video.gif)
 
