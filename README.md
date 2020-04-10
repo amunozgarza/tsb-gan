@@ -18,7 +18,7 @@ The script run create_dataset.sh will automatically create N videos of each clas
 
 ## Architecture
 
-<img src="https://github.com/amunozgarza/mvt-gan/blob/master/demos/arch.png" width="600">
+<img src="https://github.com/amunozgarza/mvt-gan/blob/master/demos/arch.png" width="650">
 
 ![](demos/arch.png)
 
