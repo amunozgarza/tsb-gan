@@ -7,14 +7,10 @@ To train the network run the script run_video_gan.sh.
 
 To test results run create_dataset.sh.
 
-https://github.com/amunozgarza/mvt-gan/tree/master/demos/ucf.gif
-
-
-
 ![](demos/ucf.gif) 
 
-![Farmers Market Finder Demo 4](demos/ucf_2.gif)
+![](demos/ucf_2.gif)
 
-![Farmers Market Finder Demo 2](demos/jester_video.gif)
+![](demos/jester_video.gif)
 
-![Farmers Market Finder Demo](demos/weiz_video.gif)
+![](demos/weiz_video.gif)
