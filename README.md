@@ -13,7 +13,7 @@ To test results run create_dataset.sh.
 ## Samples
 
 ### UCF-101
-[![MVT-GAN](demo/ucf.png)](https://drive.google.com/file/d/1mViABmg-JfJQxGb82_rsQil5vIj7GZAR/view?usp=sharing "MVT-GAN")
+[![MVT-GAN](demos/ucf.png)](https://drive.google.com/file/d/1mViABmg-JfJQxGb82_rsQil5vIj7GZAR/view?usp=sharing "MVT-GAN")
 
 https://drive.google.com/file/d/1mViABmg-JfJQxGb82_rsQil5vIj7GZAR/view?usp=sharing
 
