@@ -9,6 +9,7 @@ To train the network run the script run_video_gan.sh.
 
 To test results run create_dataset.sh.
 
+# Samples
 ![](demos/ucf.gif) 
 
 ![](demos/ucf_2.gif)
