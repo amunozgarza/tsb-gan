@@ -1,4 +1,4 @@
-# MVT-GAN
+# Multi-Variate Temporal GAN for Large Scale Video Generation
 
 This repository contains the official Pytorch implementation of Multi-Variate Temporal GAN for Large Scale Video Generation. Further details can be found here: https://arxiv.org/abs/2004.01823
 
@@ -9,6 +9,7 @@ Pre-trained ImageNet weights: https://drive.google.com/open?id=1QvbsuhVB036wbtc4
 To train the network run the script run_video_gan.sh.
 
 To test results run create_dataset.sh.
+
 
 ## Samples
 
