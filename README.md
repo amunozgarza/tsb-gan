@@ -17,9 +17,6 @@ Run the script run_video_gan.sh.
 The script run create_dataset.sh will automatically create N videos of each class on the dataset.
 
 ## Architecture
-![](demos/arch_rz.png)
-
-![](demos/arch_rz2.png)
 
 ![](demos/arch.png)
 
