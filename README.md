@@ -13,7 +13,7 @@ To test results run create_dataset.sh.
 ## Samples
 
 ### UCF-101
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![MVT-GAN](demo/ucf.png)](https://drive.google.com/file/d/1mViABmg-JfJQxGb82_rsQil5vIj7GZAR/view?usp=sharing "MVT-GAN")
 
 https://drive.google.com/file/d/1mViABmg-JfJQxGb82_rsQil5vIj7GZAR/view?usp=sharing
 
