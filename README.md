@@ -17,8 +17,6 @@ To test results run create_dataset.sh.
 
 [![MVT-GAN](demos/ucf.png)](https://drive.google.com/file/d/1HWrkv_Gglxv9bDnnLF4-A-SXIU6egzLB/view?usp=sharing "MVT-GAN")
 
-https://drive.google.com/file/d/1mViABmg-JfJQxGb82_rsQil5vIj7GZAR/view?usp=sharing
-
 ### 20BN-Jester
 ![](demos/jester_video.gif)
 
