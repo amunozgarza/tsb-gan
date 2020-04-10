@@ -12,6 +12,10 @@ https://github.com/amunozgarza/mvt-gan/tree/master/demos/ucf.gif
 
 
 ![](demos/ucf.gif) 
+
+<a href="url">
+  <img src="https://github.com/amunozgarza/mvt-gan/tree/master/demos/ucf.gif" align="left" height="48" width="48" >
+</a>
 <img src="https://github.com/amunozgarza/mvt-gan/tree/master/demos/ucf.gif" width="200">
 
 ![Farmers Market Finder Demo 4](demos/ucf_2.gif)
