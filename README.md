@@ -17,8 +17,10 @@ Run the script run_video_gan.sh.
 The script run create_dataset.sh will automatically create N videos of each class on the dataset.
 
 ## Architecture
-[[ https://github.com/amunozgarza/mvt-gan/blob/master/demos/arch.png | height = 100px ]]
-![](demos/arch.png = 250x250)
+
+<img src="https://github.com/favicon.ico" width="48">
+
+![](demos/arch.png)
 
 
 ## Samples
