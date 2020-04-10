@@ -6,9 +6,18 @@ To reproduce results download the pre-trained weights, then start training.
 
 Pre-trained ImageNet weights: https://drive.google.com/open?id=1QvbsuhVB036wbtc4pKJRHhli0q_eOUGn
 
-To train the network run the script run_video_gan.sh.
+## Usage
 
-To test results run create_dataset.sh.
+To use any dataset you should  extract the frames of all videos and create a .txt file with three columns in this exact order: Location of the frames of the video, Number of frames in the folder and Class it belongs to.
+
+### Train
+Run the script run_video_gan.sh.
+
+### Test
+The script run create_dataset.sh will automatically create N videos of each class on the dataset.
+
+## Architecture
+![](demos/arch_rz.png)
 
 
 ## Samples
