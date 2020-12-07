@@ -1,6 +1,6 @@
-# Multi-Variate Temporal GAN for Large Scale Video Generation
+# Temporal Shift GAN for Large Scale Video Generation
 
-This repository contains the official Pytorch implementation of Multi-Variate Temporal GAN for Large Scale Video Generation. Further details can be found here: https://arxiv.org/abs/2004.01823
+This repository contains the official Pytorch implementation of Temporal Shift GAN for Large Scale Video Generation. Further details can be found here: https://arxiv.org/abs/2004.01823
 
 To reproduce results download the pre-trained weights, then start training.
 
@@ -21,6 +21,8 @@ The script run create_dataset.sh will automatically create N videos of each clas
 <img src="https://github.com/amunozgarza/mvt-gan/blob/master/demos/arch.png" width="625">
 
 ## Samples
+
+### MaisToy Real Samples
 
 ### UCF-101 (Click for video)
 [![MVT-GAN](demos/ucf_2.png)](https://drive.google.com/file/d/1mViABmg-JfJQxGb82_rsQil5vIj7GZAR/view?usp=sharing "MVT-GAN")
