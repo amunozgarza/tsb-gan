@@ -22,8 +22,10 @@ The script run create_dataset.sh will automatically create N videos of each clas
 
 ## Samples
 
-### MaisToy Real Samples
+### MaisToy Real Samples (Click for samples)
 [![MaisToy](demos/img_00001.png)](https://drive.google.com/file/d/1a_yAMwfQtQ4hKA22UbAZhPPKBw4ttVNU/view?usp=sharing "MaisToy")
+
+Download the dataset right here: https://drive.google.com/file/d/15KqP9uxsJ9cMUY5WZyVvl2NlIQe-HQXz/view?usp=sharing
 
 ### UCF-101 (Click for video)
 [![MVT-GAN](demos/ucf_2.png)](https://drive.google.com/file/d/1mViABmg-JfJQxGb82_rsQil5vIj7GZAR/view?usp=sharing "MVT-GAN")
